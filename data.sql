@@ -1,4 +1,5 @@
 /* Populate database with sample data. */
+/* Day 1*/
 INSERT INTO
   animals (
     id,
@@ -13,3 +14,6 @@ VALUES
   (2, 'Gabumon', '2018-11-15', 2, true, 8),
   (3, 'Pikachu', '2021-01-07', 1, false, 15.04),
   (4, 'Devimon', '2017-05-12', 5, true, 11);
+
+  /* Day 2*/
+  
