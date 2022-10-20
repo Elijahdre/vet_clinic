@@ -10,3 +10,4 @@ neutered boolean,
 weight_kg decimal);
 
 /* DAY 2 */
+ALTER TABLE animals ADD COLUMN species VARCHAR(70);
