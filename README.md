@@ -1,8 +1,13 @@
-# curriculum-databases-projects-template
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+# Vet Clinic Database
 
+> This is an educational project to create the initial data structure for a vet clinic using a relational database. I started with one table and created a complete database about:
+
+## Built With
+
+- [x] Relation Database: PostgreSQL
+- [x] VS Code
 
 ## Getting Started
 
@@ -11,6 +16,39 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Use [schema.sql](./schema.sql) to create all tables.
 - Use [data.sql](./data.sql) to populate tables with sample data.
 - Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+- [x] A web browser like Google Chrome.
+- [x] A code editor like Visual Studio Code with Git and Node.js.
+
+You can check if Git is installed by running the following command in the terminal.
+```
+$ git --version
+```
+
+Likewise for Node.js and npm for package installation.
+```
+$ node --version && npm --version
+```
+
+### Setup
+
+Clone the repository using the GitHub link provided below.
+
+### Install
+
+In the terminal, go to your file directory and run this command.
+
+```
+$ git clone git@github.com:Elijahdre/vet_clinic.git
+```
+
+### Usage
+
+Kindly modify the files as needed.
 
 
 ## Author
