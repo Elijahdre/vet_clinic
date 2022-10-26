@@ -4,6 +4,9 @@
 
 > This is an educational project to create the initial data structure for a vet clinic using a relational database. I started with one table and created a complete database about:
 
+![schema](https://user-images.githubusercontent.com/47558964/198065810-5383603f-5320-4b6e-ad4a-7b931e88d862.PNG)
+
+
 ## Built With
 
 - [x] Relation Database: PostgreSQL
